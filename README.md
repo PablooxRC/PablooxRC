@@ -116,20 +116,6 @@ También soy parte activa del movimiento scout como **Scouter del Grupo Scout Pa
 
 ---
 
-<h2>
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-  Estadísticas de GitHub
-</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&locale=es" height="250"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=material-palenight" height="250"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="250"/>
-
-</div>
 
 ---
 
