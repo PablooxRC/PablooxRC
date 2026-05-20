@@ -12,7 +12,7 @@ Soy **Ingeniero de Sistemas** titulo de la EMI - Cochabamba, apasionado por el d
 
 Actualmente trabajo como **desarrollador Full Stack en CloudNest**, creando sistemas web y móviles para empresas, gimnasios, restaurantes, inventarios, ventas y plataformas administrativas.  
 
-Me interesa especialmente el desarrollo con **React, Node.js, Laravel, Java**.  
+Me interesa especialmente el desarrollo con **React, Node.js, Laravel**.  
 
 También soy parte activa del movimiento scout como **Scouter del Grupo Scout Panda 🐼**, donde desarrollo actividades, liderazgo y proyectos tecnológicos orientados a la educación y organización scout.
 
