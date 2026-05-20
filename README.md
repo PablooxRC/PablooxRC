@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align="center">
-  💻Desarrollador Full Stack - Ingeniero de sistemas | 🚀 Emprendedor Tecnológico | 🤖 Apasionado por la IA y la Robótica
+  💻Desarrollador Full Stack - Ingeniero de sistemas | 🚀 Emprendedor Tecnológico |
 </p>
 
 ---
