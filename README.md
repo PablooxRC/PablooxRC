@@ -73,7 +73,6 @@ También soy parte activa del movimiento scout como **Scouter del Grupo Scout Pa
 <span>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </span>
 
 <h4>Inteligencia Artificial & Herramientas</h4>
