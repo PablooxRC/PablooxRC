@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  💻 Desarrollador Full Stack - Ingeniero de sistemas | 🚀 Emprendedor Tecnológico | 🤖 Apasionado por la IA y la Robótica
+  💻Desarrollador Full Stack - Ingeniero de sistemas | 🚀 Emprendedor Tecnológico | 🤖 Apasionado por la IA y la Robótica
 </p>
 
 ---
