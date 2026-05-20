@@ -48,7 +48,7 @@ También soy parte activa del movimiento scout como **Scouter del Grupo Scout Pa
   Habilidades
 </h2>
 
-<h4>Lenguajes</h4>
+<h4>Backend</h4>
 
 <span>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -66,15 +66,6 @@ También soy parte activa del movimiento scout como **Scouter del Grupo Scout Pa
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</span>
-
-<h4>Backend</h4>
-
-<span>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white">
 </span>
 
 <h4>Bases de Datos</h4>
