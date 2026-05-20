@@ -8,7 +8,7 @@
 
 ---
 
-Soy **Ingeniero de Sistemas** titulo de la EMI - Cochabamba, apasionado por el desarrollo de software y soluciones tecnológicas
+Soy **Ingeniero de Sistemas** titulado de la EMI - Cochabamba, apasionado por el desarrollo de software y soluciones tecnológicas
 
 Actualmente trabajo como **desarrollador Full Stack en CloudNest**, creando sistemas web y móviles para empresas, gimnasios, restaurantes, inventarios, ventas y plataformas administrativas.  
 
