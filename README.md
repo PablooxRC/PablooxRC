@@ -34,6 +34,16 @@ También soy parte activa del movimiento scout como **Scouter del Grupo Scout Pa
 ---
 
 <h2>
+  </h2>
+
+**UNIVALLE** <br/>
+🎓 Diplomado desarrollo full stack <br/>
+📅 Actualmente cursando <br/>
+🚀 Enfoque en desarrollo web
+
+---
+
+<h2>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
   Habilidades
 </h2>
