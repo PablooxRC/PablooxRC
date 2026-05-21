@@ -27,7 +27,7 @@ También soy parte activa del movimiento scout como **Scouter del Grupo Scout Pa
 </h2>
 
 **Escuela Militar de Ingeniería (EMI)** <br/>
-🎓 Ingeniería de Sistemas / Software <br/>
+🎓 Ingeniería de Sistemas <br/>
 📅 Titulado el 2025 <br/>
 🚀 Enfoque en desarrollo web y servidores  
 
